@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import plotly.express as px
+import plotly-express as px
 
 st.title("Proyecto Sprint 7: Análisis Exploratorio de Datos")
 st.write("¡Bienvenido a mi aplicación de análisis de datos!")
